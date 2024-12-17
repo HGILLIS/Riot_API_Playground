@@ -1,0 +1,18 @@
+game_mode,win,champion,kills,deaths,assists,gold_earned,total_minions_killed,total_damage_dealt_champions,total_damage_taken,total_damage_shielded_teammates,total_time_crowd_controlled,vision_score,wards_placed,damage_dealt_to_buildings,damage_dealt_to_objectives,damage_dealt_to_turrets,game_ended_in_surrender,individual_position,inhibitor_takedowns,largest_killing_spree,largest_multi_kill,total_damage_shielded_on_teammates,total_heals_on_teammates
+CLASSIC,Win,Ambessa,6,10,14,12553,31,27600,48458,0,340,22,4,322,32645,322,False,JUNGLE,0,2,1,0,0
+CLASSIC,Loss,Aurora,3,11,8,11409,211,27830,38528,0,256,14,5,4300,5917,4300,True,TOP,1,3,2,0,0
+CLASSIC,Win,Aurora,10,6,13,14077,218,30844,31818,0,335,17,7,5019,11390,5019,False,MIDDLE,1,6,2,0,0
+CLASSIC,Loss,Volibear,0,8,0,6869,139,11271,25818,0,246,12,7,3808,3808,3808,False,TOP,0,0,0,0,0
+CLASSIC,Win,Irelia,6,6,5,13693,234,33042,31811,0,141,16,9,9727,15873,9727,False,TOP,2,4,2,0,0
+CLASSIC,Loss,Aurora,3,5,6,10684,210,23507,23068,0,273,13,6,6894,12705,6894,False,MIDDLE,0,2,1,0,0
+CLASSIC,Win,Viktor,8,3,14,12270,177,34177,17627,0,295,18,10,4405,5325,4405,False,MIDDLE,2,5,1,0,0
+CLASSIC,Win,Jayce,15,9,12,22275,310,72158,44035,0,325,30,16,8894,29769,8894,False,MIDDLE,2,6,2,0,0
+CLASSIC,Loss,Viktor,3,5,3,8858,157,17707,11048,0,72,14,7,5911,13014,5911,True,MIDDLE,0,2,1,0,0
+CLASSIC,Loss,Jax,6,11,5,12905,194,34381,46339,0,159,30,13,2716,6908,2716,True,TOP,0,2,1,0,0
+CLASSIC,Win,Amumu,9,6,15,13059,27,19518,32174,0,251,26,3,0,42571,0,False,JUNGLE,1,6,2,0,0
+CLASSIC,Loss,Vladimir,5,6,5,9119,156,23044,35888,0,41,12,7,2408,2408,2408,True,MIDDLE,0,3,1,0,0
+CLASSIC,Loss,Wukong,2,6,4,8015,12,11591,32441,0,139,12,2,0,3241,0,True,JUNGLE,0,0,1,0,0
+CLASSIC,Loss,Ryze,7,5,1,10863,203,24512,26738,0,76,18,8,3837,4725,3837,True,MIDDLE,0,5,1,0,0
+CLASSIC,Loss,Ahri,2,5,0,7909,169,9935,14625,0,73,12,10,1824,3488,1824,True,MIDDLE,0,2,1,0,0
+CLASSIC,Win,Master Yi,5,5,8,11606,19,15679,29623,0,233,24,8,669,29161,669,False,JUNGLE,2,4,1,0,0
+CLASSIC,Win,Akali,3,12,6,10849,183,22359,47027,0,75,26,11,175,6358,175,False,MIDDLE,0,2,1,0,0
